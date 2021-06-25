@@ -5,4 +5,4 @@ A pack for the gorilla cosmetics mod (for Gorilla Tag) containing axolotl hats a
 
 Current Cosmetics look (blue and pink axolotl):
 
-![](Assets For Read Me/Blue Axol.png)
+![](Assets For ReadMe/Blue and pink axolotl.png)
