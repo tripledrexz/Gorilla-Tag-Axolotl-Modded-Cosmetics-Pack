@@ -13,7 +13,7 @@ To download these cosmetics - make sure you have the gorilla cosmetics mod. For 
 # [Gold Axolotl]()
 ![Gold Axolotl](https://github.com/fan1glam/Gorilla-Tag-Axolotl-Modded-Cosmetics-Pack/blob/08fa7a825a0ece0e9087817cf557d69d7555e57a/Assets%20For%20ReadMe/Gold%20axolotl.jpg)
 
-# [Brown Axolotl]()
+# [Brown Axolotl](https://github.com/fan1glam/Gorilla-Tag-Axolotl-Modded-Cosmetics-Pack/tree/main/Cosmetics/Brown-Axolotl)
 ![Brown Axolotl](https://github.com/fan1glam/Gorilla-Tag-Axolotl-Modded-Cosmetics-Pack/blob/08fa7a825a0ece0e9087817cf557d69d7555e57a/Assets%20For%20ReadMe/brown%20axolotl.jpg)
 
 # [White Axolotl]()
